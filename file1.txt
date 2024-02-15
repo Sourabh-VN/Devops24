@@ -1,0 +1,18 @@
+Devops involves Linux operations
+Devops is about practice
+total 28
+-rwxr-xr-x 1 ubuntu ubuntu   64 Feb  9 05:40 test.txt
+-rwxr-xr-x 1 ubuntu ubuntu  140 Feb  9 05:48 greatest.sh
+drwxrwxr-x 3 ubuntu ubuntu 4096 Feb  9 09:28 dir1
+drwxrwxr-x 2 ubuntu ubuntu 4096 Feb  9 09:33 dir4
+-rwxr-xr-x 1 ubuntu ubuntu  205 Feb  9 09:36 file2.txt
+drwxrwxr-x 2 ubuntu ubuntu 4096 Feb  9 09:40 dump_files
+-rw-rw-r-- 1 ubuntu ubuntu   58 Feb  9 09:49 file1.txt
+total 28
+-rwxr-xr-x 1 ubuntu ubuntu   64 Feb  9 05:40 test.txt
+-rwxr-xr-x 1 ubuntu ubuntu  140 Feb  9 05:48 greatest.sh
+drwxrwxr-x 3 ubuntu ubuntu 4096 Feb  9 09:28 dir1
+drwxrwxr-x 2 ubuntu ubuntu 4096 Feb  9 09:33 dir4
+-rwxr-xr-x 1 ubuntu ubuntu  205 Feb  9 09:36 file2.txt
+drwxrwxr-x 2 ubuntu ubuntu 4096 Feb  9 09:40 dump_files
+-rw-rw-r-- 1 ubuntu ubuntu  444 Feb  9 09:51 file1.txt

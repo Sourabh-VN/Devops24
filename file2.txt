@@ -1,0 +1,5 @@
+This is a dummy file.
+It is to test vi editor in Linux.
+Linux is one of the oldest operating systems in the world.
+Linux has good command line interface.
+It is easy to handle linux using various commands.
